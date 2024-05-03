@@ -3,7 +3,7 @@
 ## Overview
 This README file provides instructions and information for setting up and customizing a simple portfolio website.
 ## Screenshots
- <img src="">
+ <img src="screencapture.png">
 
 ## Features
 - Clean and minimalist design
