@@ -40,13 +40,6 @@ This README file provides instructions and information for setting up and custom
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [JavaScript Tutorial](https://www.w3schools.com/js/)
 
-## Credits
-This project template was created by Irfan.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Feedback and Support
 For any questions, feedback, or support, please contact [irfanamohd0525@gmail.com].
 
 ## Version History
